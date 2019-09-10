@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 	<title>FindThePrecious.com</title>
+</head>
 <body>
 
       <!--here we start the header of the body-->
@@ -57,7 +58,7 @@
 	</figure>
 
 		
-		<h6>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non condimentum odio. Donec sed congue ligula, nec venenatis mauris. Suspendisse a ligula vehicula, fermentum dolor . </h6>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non condimentum odio. Donec sed congue ligula, nec venenatis mauris. Suspendisse a ligula vehicula, fermentum dolor . </p>
    
 	
 </div>
@@ -75,7 +76,7 @@
 </div>
 </section>
    <hr>
-
+<h2>contact us </h2>
 <form method="post">
 
 	<input type="email" name="emailUser" placeholder="@">
@@ -84,11 +85,11 @@
            <option value="">Valeur 1</option> 
            <option value="" selected>I have seen one of them</option>
            <option value="">Valeur 3</option>
-</select>
-<textarea >your message</textarea>
+    </select>
+    <textarea >your message</textarea>
 
 </form>
-<hr>
+      <hr>
 
 <!-- here we start the footer of the body-->
 	<footer>
@@ -98,17 +99,16 @@
 	  	<a href="#">Join our amry us</a>
 
 	  </div>
-<div>
+      <div>
 	  	<a href="#">FAQ</a>
 	  	<a href="#">Rewaed conditions</a>
 	  	<a href="#">Legal mentions</a>
-</div>
-<div>
+      </div>
+      <div>
 	  	<a href="#">Sauron4Ever.com</a>
 	  	<a href="#">Fllows him also on twitter</a>
 	  
-</div>
-
+ </div>
 	</footer>
 
 </body>
