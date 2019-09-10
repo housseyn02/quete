@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<title>FindThePrecious.com</title>
+<body>
+
+      <!--here we start the header of the body-->
+	<header>
+		<p>FindThePrecious.com</p>
+		<nav>
+			<a href="#" >Follows</a>
+            <a href="#">Contact us</a>
+
+
+		</nav>
+		
+	</header>
+	   <hr>
+	   <!--here we start the sections -->
+	<section>
+		<h4>Dangerous fellowship try to destroy the ring</h4>
+		<p>Orcs,Goblins,Balrongs,protect your master Saruon!
+		</p>
+	</section>
+	<hr>
+
+	<section>
+		<h4>
+			Follows wanted dead 
+		</h4>
+		<p>(or alive if you want to eat them later)</p>
+	
+<div>
+	<figure>
+		<img src="https://via.placeholder.com/150" alt="placeholder">
+		<figcaption><h4>The Wizard</h4></figcaption>
+		
+
+	</figure>
+	
+		
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer bibendum tortor purus, vitae dapibus turpis viverra id. Cras nec justo finibus, posuere sapien eget, porta turpis. Aliquam in consequat lorem. </p>
+
+	
+	
+
+
+	
+</div>
+
+
+<div>
+	
+	<figure>
+		<img src="https://via.placeholder.com/150" alt="placeholder">
+		<figcaption><h4>Hobbit #3</h4></figcaption>
+	</figure>
+
+		
+		<h6>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non condimentum odio. Donec sed congue ligula, nec venenatis mauris. Suspendisse a ligula vehicula, fermentum dolor . </h6>
+   
+	
+</div>
+<div>
+	
+	<figure>
+		<img src="https://via.placeholder.com/150" alt="placeholder">
+		<figcaption><h4>TYummy Dwarf</h4></figcaption>
+	</figure>
+
+	
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non condimentum odio. Donec sed congue ligula, nec venenatis mauris. Suspendisse a ligula vehicula, fermentum dolor. </p>
+    
+	
+</div>
+</section>
+   <hr>
+
+<form method="post">
+
+	<input type="email" name="emailUser" placeholder="@">
+	<input type="text" name="adressUser" placeholder="your adress please">
+	<select id="whatHappened">
+           <option value="">Valeur 1</option> 
+           <option value="" selected>I have seen one of them</option>
+           <option value="">Valeur 3</option>
+</select>
+<textarea >your message</textarea>
+
+</form>
+<hr>
+
+<!-- here we start the footer of the body-->
+	<footer>
+	  <div>
+	  	<a href="#">About us</a>
+	  	<a href="#">Follows us</a>
+	  	<a href="#">Join our amry us</a>
+
+	  </div>
+<div>
+	  	<a href="#">FAQ</a>
+	  	<a href="#">Rewaed conditions</a>
+	  	<a href="#">Legal mentions</a>
+</div>
+<div>
+	  	<a href="#">Sauron4Ever.com</a>
+	  	<a href="#">Fllows him also on twitter</a>
+	  
+</div>
+
+	</footer>
+
+</body>
+</html>
