@@ -76,7 +76,7 @@
 </div>
 </section>
    <hr>
-<h2>contact us </h2>
+<h4>contact us </h4>
 <form method="post">
 
 	<input type="email" name="emailUser" placeholder="@">
