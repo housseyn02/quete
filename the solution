@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>FindThePrecious.com</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+
+    <body>
+
+        <!--here we start the header of the body-->
+        <header>
+            <p>FindThePrecious.com</p>
+            <nav>
+                <a href="#" >Follows</a>
+                <a href="#">Contact us</a>
+
+
+            </nav>
+
+        </header>
+        <hr>
+        <!--here we start the sections -->
+        <section>
+            <h4>Dangerous fellowship try to destroy the ring</h4>
+            <p>Orcs,Goblins,Balrongs,protect your master Saruon!
+            </p>
+        </section>
+        <hr>
+
+        <section>
+            <h4>Follows wanted dead</h4>
+            <p>(or alive if you want to eat them later)</p>
+
+            <div>
+                <figure>
+                    <img src="https://via.placeholder.com/150" alt="placeholder">
+                    <figcaption><h4>The Wizard</h4></figcaption>
+
+                </figure>
+
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Integer bibendum tortor purus, vitae dapibus turpis viverraid. Cras nec justo finibus, posuere sapien eget, porta turpis.  Aliquam in consequat lorem. </p>
+            </div>
+            <div>
+
+                <figure>
+                    <img src="https://via.placeholder.com/150" alt="placeholder">
+                    <figcaption><h4>Hobbit #3</h4></figcaption>
+                </figure>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non condimentum odio. Donec sed congue ligula, nec venenatis mauris. Suspendisse a ligula vehicula, fermentum dolor . </p>
+            </div>
+            <div>
+
+                <figure>
+                    <img src="https://via.placeholder.com/150" alt="placeholder">
+                    <figcaption><h4>Yummy Dwarf</h4></figcaption>
+                </figure>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non condimentum odio. Donec sed congue ligula, nec venenatis mauris. Suspendisse a ligula vehicula, fermentum dolor. </p>
+            </div>
+        </section>
+        <hr>
+        <h4>contact us </h4>
+        <form name="information" >
+            <input type="email" name="UserEmail" placeholder="@">
+            <input type="text" name="adressUser" placeholder="your adress please">
+            <select  name="whatHappened" >
+                <option value="2">I have not seen one of them</option> 
+                <option value="1" selected>I have seen one of them</option>
+                <option value="0">Valeur 3</option>
+            </select>
+            <textarea rows="5" cols="33" placeholder="your meesage please" ></textarea>
+            <input type="submit" value="send" >
+
+        </form>
+        <hr>
+
+        <!-- here we start the footer of the body-->
+        <footer>
+            <div>
+                <a href="#">About us</a>
+                <a href="#">Follows </a>
+                <a href="#">Join our amry </a>
+
+            </div>
+            <div>
+                <a href="#">FAQ</a>
+                <a href="#">Reward conditions</a>
+                <a href="#">Legal mentions</a>
+            </div>
+            <div>
+                <a href="#">Sauron4Ever.com</a>
+                <a href="#">Follow him also on twitter</a>
+
+            </div>
+        </footer>
+
+    </body>
+</html>
+
+
