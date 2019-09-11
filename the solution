@@ -60,7 +60,7 @@
         </section>
         <hr>
         <h4>contact us </h4>
-        <form name="information" >
+        <form name="information" action="file.php" method="post">
             <input type="email" name="UserEmail" placeholder="@">
             <input type="text" name="adressUser" placeholder="your adress please">
             <select  name="whatHappened" >
@@ -96,5 +96,3 @@
 
     </body>
 </html>
-
-
